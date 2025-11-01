@@ -18,11 +18,13 @@ Sempre em busca de aprimorar meus conhecimentos e evoluir como desenvolvedor, ex
 
 **Linguagens:**  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 **Frameworks e Bibliotecas:**  
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![.Net](https://img.shields.io/badge/-DotNet-black?style=flat-square&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 
